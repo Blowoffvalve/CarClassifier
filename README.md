@@ -1,5 +1,5 @@
 # CarClassifier
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Blowoffvalve/CarClassifier/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Blowoffvalve/CarClassifier/master?filepath=index.ipynb)
 A car classification Model to be hosted on Binder. 
 It supports 10 categories of automobiles
 1. Convertible
